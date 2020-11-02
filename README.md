@@ -4,10 +4,10 @@
 
   Hi, my name is Geovany and I'm a Computer Science student at UNIFEI (Federal University of Itajubá). I love programming and help to build all the things it makes possible gets me excited.
   
-## What I'm using now ?
-:green_heart: Node
-:whale: Docker
-:blue_heart: React
+## What I'm using now
+:green_heart: Node <br/>
+:whale: Docker <br/>
+:blue_heart: React 
 
 ### More interests
 
