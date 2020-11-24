@@ -1,18 +1,18 @@
-### Hi, I'm Geovany, a beginner full stackdeveloper :milky_way:
+### Oi, eu sou o Geovany, um desenvolvedor full-stack iniciante :milky_way:
 
-## About me
+## Sobre mim
 
-  Hi, my name is Geovany and I'm a Computer Science student at UNIFEI (Federal University of Itajubá). Help to build all things programming makes possible gets me excited.
+  Meu nome é Geovany Mendes, e sou um estudante da Universidade Federal de Itajubá. Sou apaixonado por tecnologia, principalmente por temas relacionados a programação. Apesar disso sou bem curioso e também gosto de aprender sobre temas que não estão necessariamente relacionados a minha formação, como artes e, principalmente, matemática.   
   
-## What I'm using now
+## O que eu estou usando agora ?
 :green_heart: Node <br/>
 :whale: Docker <br/>
 :blue_heart: React 
 
-### More interests
+### Mais sobre o que estou aprendendo
 
-Actually I'm learning too about cloud services using AWS.
+Atualmente estou estudando as tecnologias em nuvem da AWS.
 
-### Connect with me:
+### Conecte-se comigo:
 [![Linkedin Badge](https://img.shields.io/badge/-Geovany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovany-carlos-mendes-9741baa7/)](https://www.linkedin.com/in/geovany-carlos-mendes-9741baa7/) 
 [![Gmail Badge](https://img.shields.io/badge/-geovany.c.mendes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geovany.c.mendes@gmail.com)](mailto:geovany.c.mendes@gmail.com)
