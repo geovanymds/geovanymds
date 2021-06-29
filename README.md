@@ -4,10 +4,15 @@
 
   Meu nome é Geovany Mendes, e sou um estudante da Universidade Federal de Itajubá. Sou apaixonado por tecnologia, principalmente por temas relacionados a programação. Apesar disso sou bem curioso e também gosto de aprender sobre temas que não estão necessariamente relacionados a minha formação, como artes e, principalmente, matemática.   
   
-## O que eu estou usando agora ?
-:green_heart: Node <br/>
-:whale: Docker <br/>
-:blue_heart: React 
+## Tecnologias com as quais já trabalhei
+Node <br/>
+Docker <br/>
+React <br/>
+Angular <br/>
+Ionic <br/>
+IBM Datapower Gateway <br/>
+AWS <br/>
+
 
 ### Mais sobre o que estou aprendendo
 
