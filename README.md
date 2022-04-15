@@ -55,7 +55,7 @@
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanymds&layout=compact&title_color=01D3B6&bg_color=1F1828&text_color=ddd"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanymds&layout=compact&title_color=01D3B6&bg_color=1F1828&text_color=ddd&langs_count=6&hide=php"/>
 </div>
 
 <br/>
