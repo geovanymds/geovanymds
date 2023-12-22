@@ -1,12 +1,15 @@
-<h1 align="center">Oi, eu sou o Geovany, um desenvolvedor full-stack :milky_way:</h1>
+<h1 align="center">Hi, I am Geo, a backend developer :milky_way:</h1>
 <div>
-  <img align="right" title="Okumura Rin" alt="Okumura Rin" height="234" width="484" src="./assets/gifs/okumura_rin.gif">
   <div align="left" style="min-width:300;padding:15;">
     <h2>
-      Sobre mim
+      About me
     </h2>
     <p min-width="300">
-    Sou apaixonado por tecnologia, principalmente por temas relacionados a programação. Também sou bem curioso e gosto de aprender sobre temas que não estão necessariamente relacionados a minha formação, como artes e, principalmente, matemática.
+Graduated in Computer Science from the Federal University of Itajubá, I primarily specialize in backend development, employing technologies and languages such as Python, Javascript/Typescript, relational databases (Postgresql), non-relational databases, and Docker.
+
+I also work with Google Cloud Platform cloud services, utilizing features such as queues, asynchronous communication between microservices, serverless services, and file storage. Although my main experience lies in the backend, I have also been involved in mobile projects using React Native and Angular.
+
+Currently, I am studying Domain Driven Design (DDD), Clean Code, and Golang.
     </p>
   </div>
 </div>
@@ -38,8 +41,6 @@
   <img align="center" title="PostgreSQL" alt="PostgreSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg">
 
   <img align="center" title="Python" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
-
-  <img align="center" title="React Native" alt="React Native" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
 
   <img align="center" title="Typescript" alt="Typescript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
 
